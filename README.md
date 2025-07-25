@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *MATHEMATICS AND CODING*
 
-- 📫 How to reach me *bhairab0311@gmail.com*
+- 📫 How to reach me *abhishekkhati6235@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
