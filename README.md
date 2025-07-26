@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkhati-qmf&show_icons=true&locale=en" alt="abhishekkhati-qmf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhairab0311&" alt="bhairab0311" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhati-qmf&" alt="abhishekkhati-qmf" /></p>
