@@ -2,7 +2,7 @@
 <h3 align="center">MCA STUDENT (NIT JAMSHEDPUR)</h3>
 <img align="right" alt="coding" width="400"src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhairab0311&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhati-qmf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhati-qmf&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhati-qmf" /> </p>
 
 - 🔭 I’m currently working on *HackerRank*
 
@@ -22,8 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhairab0311&show_icons=true&locale=en&layout=compact" alt="bhairab0311" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhati-qmf&show_icons=true&locale=en&layout=compact" alt="abhishekkhati-qmf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhairab0311&show_icons=true&locale=en" alt="bhairab0311" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkhati-qmf&show_icons=true&locale=en" alt="abhishekkhati-qmf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhairab0311&" alt="bhairab0311" /></p>
